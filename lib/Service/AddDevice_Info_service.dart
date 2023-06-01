@@ -1,7 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
-import 'package:service_record/Model/AddDevice_Info_model.dart';
+import 'package:service_record/Model/Device_Info_model.dart';
 
 
 class AddDeviceService{

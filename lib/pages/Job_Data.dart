@@ -4,7 +4,6 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:provider/provider.dart';
-import 'package:service_record/pages/CreateJob/Page1.dart';
 import 'package:service_record/pages/HomePage_customer.dart';
 import 'package:service_record/widgets/drawer.dart';
 

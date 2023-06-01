@@ -11,8 +11,8 @@ import 'dart:async';
 import 'package:service_record/Controller/FindError_controller.dart';
 import 'package:service_record/Model/FindError_model.dart';
 import 'package:service_record/Service/FindError_service.dart';
-import 'package:service_record/pages/CreateJob/Page1.dart';
-import 'package:service_record/pages/CreateJob/Page3.dart';
+import 'package:service_record/pages/CreateJob/FindErrorCodePage%201.dart';
+import 'package:service_record/pages/CreateJob/CreateJobPage%201.dart';
 
 class CreateJobPage2 extends StatefulWidget {
   @override

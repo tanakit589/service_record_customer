@@ -8,7 +8,6 @@ import 'package:provider/provider.dart';
 import 'package:service_record/Controller/CheckList_Istat1_controller.dart';
 import 'package:service_record/Model/Checklist_Istat1_model.dart';
 import 'package:service_record/Service/CheckList_Istat1_service.dart';
-import 'package:service_record/pages/CreateJob/Page1.dart';
 import 'package:service_record/pages/History/ListReport.dart';
 import 'package:service_record/pages/HomePage_customer.dart';
 import 'package:service_record/pages/ListChecklist.dart';

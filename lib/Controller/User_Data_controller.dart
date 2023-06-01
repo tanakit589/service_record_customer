@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:service_record/Model/AddDevice_Info_model.dart';
+import 'package:service_record/Model/Device_Info_model.dart';
 import 'package:service_record/Model/Hospital_Model.dart';
 import 'package:service_record/Model/User_Data_model.dart';
 import 'package:service_record/Service/AddDevice_Info_service.dart';

@@ -6,12 +6,12 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 import 'package:provider/provider.dart';
-import 'package:service_record/Controller/AddDevice_Info_controller.dart';
-import 'package:service_record/Model/AddDevice_Info_model.dart';
+import 'package:service_record/Controller/Device_Info_controller.dart';
+import 'package:service_record/Model/Device_Info_model.dart';
 import 'package:service_record/Service/AddDevice_Info_service.dart';
 import 'dart:async';
 
-import 'package:service_record/pages/CreateJob/Page2.dart';
+import 'package:service_record/pages/CreateJob/FindErrorCodePage%202.dart';
 
 class CreateJobPage1 extends StatefulWidget {
   @override
